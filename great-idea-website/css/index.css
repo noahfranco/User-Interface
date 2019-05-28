@@ -64,3 +64,111 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+.logo {
+margin: auto; 
+padding: 30px; 
+border: none; 
+position: relative; 
+left: 85%; 
+}
+
+
+a {
+	color: lightgray; 
+	margin: auto;  
+	padding: 40px;
+	position: relative;
+	left: 20%; 
+	
+}
+
+.headerimg {
+	position: relative;  
+	left: 65%; 
+	 margin-bottom: 100px; 
+}
+
+h1 {
+	 font-size: 50px;  
+	display: inline-block; 
+}
+
+.headercontainer {
+	margin: auto 0; 
+	padding: 10px; 
+}
+
+.headertitle {
+	position: relative;
+	left: 29%;
+	font-size: 20px; 
+}
+
+.getstarted {
+position: relative;
+left: 10%;
+font-size: 20px; 
+margin-top: 10px;
+padding: auto; 
+/* border: double;  */
+}
+
+/* This is after the header  */
+
+main {
+	width: 100%; 
+	margin-bottom: 50px; 
+	text-align: center; 
+}
+
+.features {
+	width: 250px;
+	display: inline-block;
+	margin-bottom: 30px; 
+	padding: 20px; 
+	
+}
+
+.about {
+	width: 250px; 
+	display: inline-block; 
+	margin-bottom: 30px; 
+	padding: 20px; 
+}
+
+.services {
+	width: 250px; 
+	display: inline-block; 
+	margin-bottom: 30px; 
+	padding: 20px; 
+}
+
+.product {
+	width: 250px; 
+	display: inline-block; 
+	margin-bottom: 30px; 
+	padding: 20px; 
+}
+
+.vision {
+	width: 250px; 
+	display: inline-block; 
+	margin-bottom: 30px; 
+	padding: 20px; 
+}
+
+/* After Main  */
+
+address {
+	width: 250px; 
+	display: inline-block; 
+	margin-bottom: 30px; 
+	padding: 80px; 
+	
+}
+
+footer {
+	text-align: center; 
+}
